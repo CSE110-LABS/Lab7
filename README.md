@@ -1,2 +1,5 @@
-Partners: Jacquelyn Co & Hana Kim  
+# Lab7_Solution  
+## Group:
+- Jacquelyn Co  
+- Hana Kim  
 GitHubPages URL: 
