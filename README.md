@@ -1,2 +1,2 @@
-Partners: Jacquelyn Co & Hana Kim
+Partners: Jacquelyn Co & Hana Kim  
 GitHubPages URL: 
