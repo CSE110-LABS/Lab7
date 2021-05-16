@@ -7,6 +7,12 @@
 
 var CACHE_NAME = 'my-site-cache-v1';
 var urlsToCache = [
+    './components/entry-page.js',
+    './components/journal-entry.js',
+    './scripts/router.js',
+    './scripts/script.js',
+    './index.html',
+    './style.css',
     'https://cse110lab6.herokuapp.com/entries/'
 ];
 
